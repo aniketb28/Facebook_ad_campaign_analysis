@@ -1,4 +1,11 @@
 # 📊 Campaign Analysis Report
+This project analyzes marketing campaign data to evaluate performance using various KPIs such as Click-Through Rate (CTR), Conversion Rate (CR), Return on Ad Spend (ROAS), and Cost Per Mille (CPM).
+
+## Features
+- Performance analysis of campaigns
+- Feature engineering for CTR, CR, CPC, and ROAS
+- Visualization of campaign impact by gender, age, and interest groups
+
 
 Analyzing ad campaign performance using marketing KPIs such as ROAS, CTR, CPC, and others to draw actionable insights. Below is a detailed analysis and visualization of the dataset.
 
