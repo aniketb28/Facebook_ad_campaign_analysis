@@ -51,4 +51,49 @@ Analyzing ad campaign performance using marketing KPIs such as ROAS, CTR, CPC, a
 - **Campaign C**: High visibility but lower ROAS.  
 - **Campaign A & B**: Relatively higher ROAS and cost efficiency.
 
---
+---
+
+## 📈 Visualizations
+
+### 🧑‍🤝‍🧑 Gender and Age Impact on ROAS
+![Gender and Age Impact on ROAS](gender_age_roas.png)
+
+### 🎯 Top 5 Interest Groups by ROAS
+| Interest Group | ROAS    |
+|----------------|---------|
+| 63             | 555.56  |
+| 19             | 204.08  |
+| 16             | 175.44  |
+| 29             | 138.89  |
+| 28             | 125.79  |
+
+### 📊 Cost Per Mille (CPM) Analysis
+![CPM Analysis by Campaign](campaign_cpm.png)
+
+---
+
+## 🔗 Relationship Analysis
+
+### 🔍 Clicks vs Impressions
+![Clicks vs Impressions](clicks_impressions.png)
+
+### 📉 Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+---
+
+## 📜 Conclusion
+- **Focus Groups**: Campaigns A and B perform better for ROAS.  
+- **Optimization**: Improve efficiency in Campaign C to maximize returns.  
+- **Interest Groups**: Target high-performing groups like *Interest Group 63*.  
+
+---
+
+## 🌟 Next Steps
+1. Enhance ad creatives for Campaign C.
+2. Further explore underperforming interest groups.
+3. A/B test for different age and gender segments.
+
+---
+
+> 🚀 **Happy Analyzing!**
